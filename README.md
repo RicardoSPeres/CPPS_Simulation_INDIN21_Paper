@@ -12,4 +12,4 @@ If you use our data or simulation in your research or wish to refer to the resul
   publisher={IEEE}
 }
 ```
-> Peres, R.S.; Barata, J. "Remote E-Learning for Cyber-Physical Production Systems in Higher Education". 2021 IEEE 19th International Conference on Industrial Informatics (INDIN). IEEE, 2021.
+> Peres, R.S., Barata, J. "Remote E-Learning for Cyber-Physical Production Systems in Higher Education". 2021 IEEE 19th International Conference on Industrial Informatics (INDIN). IEEE, 2021.
